@@ -14,8 +14,8 @@
       "version": [1, 0, 0]
     }
   ],
-    "metadata": {
-        "authors": ["James C. Porter"],
-        "license": "MIT",
-    }
+  "metadata": {
+    "authors": ["James C. Porter"],
+    "license": "MIT"
+  }
 }
