@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Faster Minecarts (Max Speed 0.8)",
+    "description": "Sets minecart rail max speed to 0.8.",
+    "uuid": "21e8b910-8835-4c6d-a73b-62cbda106bb4",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "7925730f-197d-4bac-adfd-a92001658689",
+      "version": [1, 0, 0]
+    }
+  ],
+    "metadata": {
+        "authors": ["James C. Porter"],
+        "license": "MIT",
+    }
+}
